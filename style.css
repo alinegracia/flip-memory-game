@@ -1,0 +1,33 @@
+:root {
+    --color1: #83A2FF;
+    --color2: #B4BDFF;
+    --color3: #FFE3BB;
+    --color4: #FFD28F;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: var(--color1);
+}
+
+h2 {
+    margin: 30px 0;
+    color: white;
+}
+
+#game-container {
+    width: 480px;
+    height: 400px;
+    background-color: var(--color3);
+    border: 10px solid var(--color4);
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 76px;
+    height: 96px;
+    margin: 2px;
+}

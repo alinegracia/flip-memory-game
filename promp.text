@@ -1,0 +1,7 @@
+Okay, that is really great. We already build the intro of the game. Now, we will make the flip card game.
+When the start button get click, the game will start.
+There are 12 pairs of cards, and we will flip it, and match the cards. The card has 2 side, backside and frontside. The back side of the card should the color blue, the frontside of the card is the image that i've already prepare.
+I've already have 12 images. the name of this file is "img-1.jpg" - "img-12.jpg".
+When we play the game, all the cards show its backside. When we click the card, the card will flip and show the image. If we already flip 2 cards, if it match, it will not flip back. If the cards don't match, the cards will be flip to the backside.
+
+The game should be in the center of the screen(vertical and horizontal)
